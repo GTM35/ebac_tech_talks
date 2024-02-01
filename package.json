@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel src/index.html src/styles/main.scss src/scripts/main.js"
+    "dev": "parcel src/index.html src/styles/main.scss",
+    "colocarDepois": "src/scripts/main.js"
   },
   "keywords": [],
   "author": "",
